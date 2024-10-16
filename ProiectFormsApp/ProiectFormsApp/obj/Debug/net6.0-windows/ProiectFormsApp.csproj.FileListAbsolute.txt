@@ -1,0 +1,17 @@
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.csproj.AssemblyReference.cache
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.Form1.resources
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.csproj.GenerateResource.cache
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.AssemblyInfoInputs.cache
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.AssemblyInfo.cs
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.csproj.CoreCompileInputs.cache
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\bin\Debug\net6.0-windows\ProiectFormsApp.exe
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\bin\Debug\net6.0-windows\ProiectFormsApp.deps.json
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\bin\Debug\net6.0-windows\ProiectFormsApp.runtimeconfig.json
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\bin\Debug\net6.0-windows\ProiectFormsApp.dll
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\bin\Debug\net6.0-windows\ProiectFormsApp.pdb
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.dll
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\refint\ProiectFormsApp.dll
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.pdb
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ProiectFormsApp.genruntimeconfig.cache
+C:\_Data\AC AN IV\IA\ProiectFormsApp\ProiectFormsApp\obj\Debug\net6.0-windows\ref\ProiectFormsApp.dll
